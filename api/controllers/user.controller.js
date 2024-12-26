@@ -1,4 +1,3 @@
-export const deleteUser= (req,res)=>{
-                           
-    res.send("delete user")
-                         }
+export const deleteUser = (req, res) => {
+    res.send("delete user controller")
+}
